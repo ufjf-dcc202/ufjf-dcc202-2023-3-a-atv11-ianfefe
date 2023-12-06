@@ -1,3 +1,5 @@
+import { getLista, limpaLista ,adicionaNaLista} from "./lista.js"
+
 const pEntrada = document.querySelector('#entrada')
 const olSaida = document.querySelector('#itens')
 const btnAdicionar = document.querySelector('#adicionar')
